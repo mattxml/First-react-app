@@ -1,0 +1,15 @@
+.Result{
+    margin:0;
+    padding:0;
+    text-align: center;
+    width:100vw;
+    font-size:2vw;
+}
+.Result h3,h4{
+    font-weight: 500;
+}
+.Result em{
+    font-weight: bold;
+}
+
+

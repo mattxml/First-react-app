@@ -1,0 +1,17 @@
+.Form{
+    margin:0;
+    padding:0;
+    width:100%;
+}
+.Form input{
+    font-weight: bold;
+    font-size:4vh;
+    text-align: center;
+    width:30vw;
+    height: 10vh;
+    padding:5px 5px 5px 5px;
+
+    
+
+}
+@media
